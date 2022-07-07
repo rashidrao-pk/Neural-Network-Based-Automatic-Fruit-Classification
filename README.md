@@ -23,3 +23,35 @@ Feature detection is an important step in computer vision. Feature extraction st
 <br> 
 ![image](https://user-images.githubusercontent.com/25412736/177774124-5df8d4b4-2fed-450b-a03b-6884e0f008d4.png)
 <br> Feature Extraction using InceptionV3 <br> 
+### d)	FEATURE SELECTION
+Optimization is used to improve the accuracy and reduce the bias in the model. When extract data with a high number of available features, it can become necessary to find ways to reduce the number of features which the classifier has to process. This is because every additional feature increases the complexity of the classification.
+<br>
+![image](https://user-images.githubusercontent.com/25412736/177774369-4b9cb972-3344-4260-8af8-eae5cd7a7f31.png)
+<br>
+Figure 5 Feature Selection
+<br>
+### e)	Classification
+Classification is the process in machine learning in which features are classified into their most relevant category. In our approach, we will use SVM algorithm for classification.
+<br>
+![image](https://user-images.githubusercontent.com/25412736/177774508-5f4ac754-06b4-4eee-ad53-15ef399fe762.png)
+<br>
+Figure 6 Classification
+<br>
+### f)	TRAINING
+Training is the phase in which system the system gets trained using extracted features. In our proposed work, our system will be trained using optimized features extracted from acquired dataset.
+### g)	TESTING
+In testing phase, trained system is evaluated using dataset and as a results, testing accuracy is achieved with some more performance measures. In our proposed work, we will calculate accuracy and detection time for testing phase.
+## 3.2.	TOOL USED
+For development of proposed project, Matlab 2020a will be used as the development tool and furthermore some of its sub-application maybe used for assistance.
+•	Matlab
+•	GUI feature of Matlab
+•	Inception v3 model as Neural Network for features.
+•	SVM classifier for classification of features.
+
+# 4.	ADVANTAGES
+•	Less Labor Cost
+•	Automatic and Intelligent System
+•	Fast and Accurate
+•	Unobtrusive
+•	More Working Hours
+
