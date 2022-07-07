@@ -1,6 +1,9 @@
 # Neural-Network-Based-Automatic-Fruit-Classification
 Neural Network Based Automatic Fruit Classification
 <br> 
+![SS 1](https://user-images.githubusercontent.com/25412736/177775437-d28d69df-5090-42b4-b3a2-4ebb3e427a3d.PNG)
+<br> 
+
 ## 3.1.	MODULES
 The main functions of our system will be:
 a)	Image Acquisition / Dataset Collection
